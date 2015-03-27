@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="aqua">#00FFFF</color>
+    <color name="navy">#000080</color>
+    <color name="Orange">#FFA500</color>
+    <string name="app_name">LoginPortal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit_button"><b><u>Submit</u></b></string>
+    <string name="clear_button"><b><u>Clear</u></b></string>
+    <string name="register_button"><b><u>Register</u></b></string>
+    <string name="remember_button"><b><u>Remember Me</u></b></string>
+    <string name="username">Enter your Username</string>
+    <string name="password">Enter your Password</string>
+    <string name="label_user"><b>Username:</b></string>
+    <string name="label_pwd"><b>Password:</b></string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="fname">First Name:</string>
+    <string name="mname">Middle Name:</string>
+    <string name="lname">Last Name:</string>
+    <string name="email">Email ID:</string>
+    <string name="phno">Phone no:</string>
+    <string name="addr">Address:</string>
+    <string name="pwd">Password:</string>
+    <string name="title_activity_profile">Profile</string>
+
+</resources>
